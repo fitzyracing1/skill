@@ -30,3 +30,8 @@ Never asks for keys. Never holds funds.
 - [`cryptospeed-bot`](https://github.com/fitzyracing1/cryptospeed-bot) — Telegram Skill (the product)
 - [`skill-teams-bot`](https://github.com/fitzyracing1/skill-teams-bot) — future Teams packaging
 - this repo (`skill`) — landing / index only
+
+## Documentation
+
+- In-repo docs: [docs/](docs/index.md)
+- Wiki: [https://github.com/fitzyracing1/skill/wiki](https://github.com/fitzyracing1/skill/wiki)
